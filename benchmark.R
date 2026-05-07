@@ -1,3 +1,4 @@
+remotes::install_github("imanechadli2003/mlr3extralearners@polynomial-regression-learner")
 library(mlr3)
 library(mlr3learners)
 library(mlr3tuning)
